@@ -25,7 +25,7 @@
 + [EXPO](https://expo.dev/client) or [ANDROID STUDIO](https://developer.android.com/studio)
 
 ### Codes
-+ `git clone https://github.com/4kauanmota/compass_restaurantMenu.git .`
++ `git clone https://github.com/cauesilva1/moviCar .`
 + `npm install` or `npm i`
 + `npm run start` or `npm start`
 
